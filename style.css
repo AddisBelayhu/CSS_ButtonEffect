@@ -8,6 +8,10 @@ body{
 }
 
 button{
-    
+    width: 400px;
+    height: 100px;
+    cursor: pointer;
+    background: #51e2f5;
+    border: 5px solid #9bd8e0;
 }
 
