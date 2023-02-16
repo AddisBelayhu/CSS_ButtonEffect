@@ -19,3 +19,8 @@ button{
     position: absolute;
 }
 
+body.on button{
+    box-shadow: 0  0 20px #51e2f5;
+    box-shadow: 0  0 40px #51e2f5;
+    box-shadow: 0  0 80px #51e2f5;
+}
