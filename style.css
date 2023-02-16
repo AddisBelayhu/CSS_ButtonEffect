@@ -13,5 +13,9 @@ button{
     cursor: pointer;
     background: #51e2f5;
     border: 5px solid #9bd8e0;
+    font-size: 50px;
+    border-radius: 10px;
+    transition: .5s;
+    position: absolute;
 }
 
